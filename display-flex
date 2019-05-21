@@ -1,0 +1,2 @@
+.classificação{height: calc(100vh - 73px);display: flex;
+    align-items: center;}
