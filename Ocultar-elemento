@@ -1,0 +1,11 @@
+@media (min-width: 981px) {
+  .d1 {
+    display: none
+  }
+}
+
+@media (max-width: 981px) {
+  .d2 {
+    display: none
+  }
+}
